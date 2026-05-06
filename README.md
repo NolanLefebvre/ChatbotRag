@@ -4,10 +4,6 @@
 
 1. Cloner le projet :
 
-## Installation
-
-1. Cloner le projet :
-
 ```
 git clone https://github.com/NolanLefebvre/ChatbotRag.git
 ```
