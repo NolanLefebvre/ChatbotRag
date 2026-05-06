@@ -6,7 +6,7 @@ const path = require("path");
 const { pipeline } = require("@xenova/transformers");
 const { Pinecone } = require("@pinecone-database/pinecone");
 
-async function main() {
+async function embed() {
 
   const dossier = "documents";
 
@@ -83,4 +83,4 @@ async function main() {
   console.log("Tous les fichiers ont été indexés dans Pinecone");
 }
 
-main().catch(console.error);
+module.exports = { embed }
