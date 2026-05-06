@@ -11,6 +11,11 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "express": "^5.2.1"
+    "@pinecone-database/pinecone": "^3.0.3",
+    "@xenova/transformers": "^2.0.1",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "langchain": "^1.4.0",
+    "onnxruntime-node": "^1.25.1"
   }
 }
