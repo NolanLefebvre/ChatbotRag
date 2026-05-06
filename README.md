@@ -1,19 +1,8 @@
-bonjour# Chatbot RAG
+# Chatbot RAG
 
 ## Installation
 
 1. Cloner le projet :
-
-README.md
-1 Ko
-﻿
-JeSaisPas
-karmasphinx
- 
- 
- 
-Non
-# Chatbot RAG
 
 ## Installation
 
