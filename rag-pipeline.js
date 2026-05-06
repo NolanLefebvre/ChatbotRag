@@ -84,7 +84,7 @@ ${contexte}`,
 
     function poserQuestion() {
         rl.question("Vous : ", async (question) => {
-            if (question === "exit") {
+            if (question.toLowerCase() === "exit") {
                 rl.close();
                 return;
             }
